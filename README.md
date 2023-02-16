@@ -18,9 +18,9 @@ The purpose of this project is to employ different techniques to train and evalu
 
 <img width="681" alt="Screen Shot 2023-02-16 at 5 49 41 PM" src="https://user-images.githubusercontent.com/80222506/219505836-120d237b-6587-456e-a466-7aa1a5677ef4.png">
 
-- Finally the Easy Ensemble Classifier was used. The precision and f-1 measures are similar to the previous tests above, but one difference is the recall. 
+- Finally the Easy Ensemble Classifier was used. The precision and f-1 measures are similar to the previous tests above, but one difference is the recall. This seems to. be greater and closer than any of the other tests. This means that this test will be best at calculating negatives as the likelyhood of predicting a false negative is low. 
 
 <img width="727" alt="Screen Shot 2023-02-16 at 5 49 48 PM" src="https://user-images.githubusercontent.com/80222506/219505923-594be8dc-b200-4327-9ff8-67d6b960f41a.png">
 
 ### Summary
-In summary, the first three models most likely will not be the best for determining credit risk and avoiding incorrect approvals because their precisions and f-1 are so vairant and won't be good at predicting this information. I also believe that because of this their accuracy will be low as well. 
+In summary, the first three models most likely will not be the best for determining credit risk and avoiding incorrect approvals because their precisions and f-1 are so vairant and won't be good at predicting this information. I also believe that because of this their accuracy will be low as well. I'm not sure which model would be best to use; however, I don't believe that any of the models above will do a perfect job at predicting the data. 
